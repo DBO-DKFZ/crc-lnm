@@ -1,5 +1,5 @@
 ## crc-lnm
-**Prediction of lymph node status from routine histological slides of colorectal cancer using deep learning**
+**Deep learning can predict lymph node status directly from histology in colorectal cancer**
 
 
 ![Pipeline](/images/pipeline.jpg)
@@ -21,12 +21,16 @@ You can use it in any way you like. We will not maintain this repository. Please
 ## Citations
 
 ```bibtex
-@misc{vaswani2017attention,
-    title   = {Attention Is All You Need},
-    author  = {Ashish Vaswani and Noam Shazeer and Niki Parmar and Jakob Uszkoreit and Llion Jones and Aidan N. Gomez and Lukasz Kaiser and Illia Polosukhin},
-    year    = {2017},
-    eprint  = {1706.03762},
-    archivePrefix = {arXiv},
-    primaryClass = {cs.CL}
+@article{KIEHL2021464,
+title = {Deep learning can predict lymph node status directly from histology in colorectal cancer},
+journal = {European Journal of Cancer},
+volume = {157},
+pages = {464-473},
+year = {2021},
+issn = {0959-8049},
+doi = {https://doi.org/10.1016/j.ejca.2021.08.039},
+url = {https://www.sciencedirect.com/science/article/pii/S0959804921005700},
+author = {Lennard Kiehl and Sara Kuntz and Julia Höhn and Tanja Jutzi and Eva Krieghoff-Henning and Jakob N. Kather and Tim Holland-Letz and Annette Kopp-Schneider and Jenny Chang-Claude and Alexander Brobeil and Christof {von Kalle} and Stefan Fröhling and Elizabeth Alwers and Hermann Brenner and Michael Hoffmeister and Titus J. Brinker},
+keywords = {Colorectal cancer, Lymph node status, Deep learning, CNN, Clinical data}
 }
 ```
